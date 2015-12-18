@@ -1,0 +1,4 @@
+en:
+  projects:
+    show:
+      title: "Hey you! Go %{root_link:here}..."
